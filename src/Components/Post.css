@@ -1,7 +1,6 @@
 .thumbnail {
     width: 70px;
     height: 70px;
-    /*border: 1px solid #F1C6C2;*/
     border: 1px solid #CE8982
   }
   a {
@@ -41,6 +40,5 @@
 
   .panel-body {
     border: 1px solid #ccc;
-    /*box-shadow: 0 1px 3px rgba(0,0,0,0.1);*/
     border-radius: 5px;
   }
