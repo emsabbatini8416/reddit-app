@@ -1,0 +1,46 @@
+.thumbnail {
+    width: 70px;
+    height: 70px;
+    /*border: 1px solid #F1C6C2;*/
+    border: 1px solid #CE8982
+  }
+  a {
+    font-size:16px;
+  }
+  .badge {
+    background-color: #428bca;
+  }
+  .meta, .meta-comments {
+    font-size:12px;
+    color: #333;
+    margin-bottom: 0;
+  }
+  .meta-comments {
+    font-weight: bold;
+  }
+  
+  .panel {
+    -webkit-transition: 0.75s ease-in-out all;
+    -moz-transition: 0.75s ease-in-out all;
+    -o-transition: 0.75s ease-in-out all;
+    transition: 0.75s ease-in-out all;
+    background-color: #fff;
+    border: none;
+    margin-bottom: 15px;
+  }
+  
+  .panel a {
+    color: #e74c3c;
+    font-weight: bold;
+  }
+  
+  .panel .badge {
+    background-color: #e74c3c;
+    color: #fff;
+  }
+
+  .panel-body {
+    border: 1px solid #ccc;
+    /*box-shadow: 0 1px 3px rgba(0,0,0,0.1);*/
+    border-radius: 5px;
+  }
